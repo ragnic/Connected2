@@ -1,4 +1,5 @@
 This game was created as part of the Game Project 2021 course at Tampere University, Finland.
+More information and executable available at https://grlgameproject.wordpress.com/disconnected/
 
 DESCRIPTION:
 
@@ -8,13 +9,10 @@ CREDITS:
 
 Created and developed by Screaming Siren Games:
 
-Nicolas Boucht - Lead Designer, Writer & Supporting Artist
-
-Alina Plokhova - Lead Artist & Art Designer
-
-Kamran Akbar - Lead Programmer, Designer
-
-Laura Launonen - Programmer, Music & Sound Effects
+- Nicolas Boucht - Lead Designer, Writer & Supporting Artist
+- Alina Plokhova - Lead Artist & Art Designer
+- Kamran Akbar - Lead Programmer, Designer
+- Laura Launonen - Programmer, Music & Sound Effects
 
 
 This game uses assets by Joseph Barber:
