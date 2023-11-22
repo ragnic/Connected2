@@ -2,32 +2,25 @@ This game was created as part of the Game Project 2021 course at Tampere Univers
 
 DESCRIPTION:
 
-In “Connected” you play as Sandra, who inherited her late grandmother’s house and belongings, which includes a call center switchboard.
-You decide to take up her work and proceed to forward calls for a living – while inadvertently figuring out details about your late grandmother's house and her mysterious death.
+"Disconnected" or "Connected 2", the sequel to "Connected", is a sidescrolling game set in a spooky hell dimension, featuring turn-based combat and ability unlocks to help you defeat demons and bring a resolution to the adventures of Sandra.
 
 CREDITS:
 
 Created and developed by Screaming Siren Games:
 
-Kamran Akbar - Programmer
+Nicolas Boucht - Lead Designer, Writer & Supporting Artist
 
-Laura Launonen - Programmer, Music and Audio Designer
+Alina Plokhova - Lead Artist & Art Designer
 
-Nicolas Boucht - Producer, Writer, Narrative Designer
+Kamran Akbar - Lead Programmer, Designer
 
-Alina Plokhova - Art Designer
+Laura Launonen - Programmer, Music & Sound Effects
 
 
-This game uses assets by David Lipps:
-EXP Godot Dialog System v.1.2.0 https://github.com/EXPWorlds/Godot-Dialog-System
+This game uses assets by Joseph Barber:
+Unity Dialogue Editor 1.1 https://github.com/JosephBarber96/UnityDialogueEditor
 
-This game uses the following sounds from:
-forest mixed with sounds from https://freesound.org/
+This game uses the following music and sounds:
+"Massacre Metal" by Fato Shadow(Fatih Karimoff), hosted on OpenGameArt.org from https://opengameart.org/content/massacre-soundtrack
 
-strong-wind: https://mixkit.co/ 
-vintage-telephone-ringtone: https://mixkit.co/ 
-wrong-electricity-buzz: https://mixkit.co/
-
-This game uses the following fonts:
-Traveling TypeWriter from https://www.dafont.com/
-501 from https://www.dafont.com/
+"Loading Screen Loop" by Brandon Harris, hosted on OpenGameArt.org from https://opengameart.org/content/loading-screen-loop
