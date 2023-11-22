@@ -10,9 +10,13 @@ CREDITS:
 Created and developed by Screaming Siren Games:
 
 Kamran Akbar - Programmer
+
 Laura Launonen - Programmer, Music and Audio Designer
+
 Nicolas Boucht - Producer, Writer, Narrative Designer
+
 Alina Plokhova - Art Designer
+
 
 This game uses assets by David Lipps:
 EXP Godot Dialog System v.1.2.0 https://github.com/EXPWorlds/Godot-Dialog-System
